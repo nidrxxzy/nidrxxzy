@@ -2,7 +2,7 @@
 <h3 lign="left"> Learning Games Modding...</h3>
 
 
-<p align="left"> <a href="https://www.tiktok.com/@nidxxzy" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/004/542/856/original/tiktok-tik-tok-musically-logo-icon-social-media-icons-set-logo-illustrator-free-vector.jpg" alt="brazxfx" /></a> </p>
+<p align="left"> <a href="https://www.tiktok.com/@nidxxzy" target="blank"><img src="[https://static.vecteezy.com/system/resources/previews/004/542/856/original/tiktok-tik-tok-musically-logo-icon-social-media-icons-set-logo-illustrator-free-vector.jpg](https://i.pinimg.com/474x/7f/7a/5f/7f7a5fd1349e11eb6903b7a759eb22d5.jpg)" alt="brazxfx" /></a> </p>
 
   
 
